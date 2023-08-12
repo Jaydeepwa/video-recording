@@ -35,3 +35,5 @@ export const userAuth = async (req:Request<IUserReg>, res: Response, next: NextF
         })
     }
 };
+
+// consolve.log
